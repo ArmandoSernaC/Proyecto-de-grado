@@ -1,0 +1,4 @@
+<launch>
+  <node name="tangent_bug_node" pkg="pg" type="TangentBug2.py" output="screen"/>
+</launch>
+
