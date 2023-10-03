@@ -1,1 +1,1 @@
-# turtlebot_ws
+Repositorio que aborda lo desarrollado para el proyecto de grado.
